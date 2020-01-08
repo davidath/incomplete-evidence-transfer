@@ -1,0 +1,11 @@
+*/.*pyc
+*/.*swp
+*/.*npz
+*.npz
+*.pyc
+*.swp
+experiments/
+sae/
+*/experiments
+*/sae
+mkdata/*
