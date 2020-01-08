@@ -1,1 +1,1 @@
-![alt text](https://github.com/davidath/evitrac/blob/master/postrun/annett-o/figures/cifar.png)
+![alt text](https://github.com/davidath/incomplete-evidence-transfer/blob/master/postrun/annett-o/figures/cifar.png)
